@@ -1,0 +1,1 @@
+# maya-straighten-uv
